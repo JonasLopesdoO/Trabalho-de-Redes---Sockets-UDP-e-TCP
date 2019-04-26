@@ -1,0 +1,2 @@
+servidor - https://nbviewer.jupyter.org/github/JonasLopesdoO/Trabalho-de-Redes---Sockets-UDP-e-TCP/blob/master/Q1/UDPPingerServer.ipynb
+cliente - https://nbviewer.jupyter.org/github/JonasLopesdoO/Trabalho-de-Redes---Sockets-UDP-e-TCP/blob/master/Q1/Cliente%20Ping.ipynb
